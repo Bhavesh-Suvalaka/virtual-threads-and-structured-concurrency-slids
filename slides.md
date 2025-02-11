@@ -691,3 +691,15 @@ public CompletableFuture<List<Product>> recommendProducts(String customerId) {
 ---
 
 # Questions and feedback
+
+---
+Reference:
+[Loom Proposal](https://cr.openjdk.org/~rpressler/loom/Loom-Proposal.html)
+[Second Preview](https://openjdk.org/jeps/425)
+[Documentations](https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html#GUID-DC4306FC-D6C1-4BCC-AECE-48C32C1A8DAA) ·
+[Modern Concurrency in Java](https://www.oreilly.com/library/view/modern-concurrency-in/9781098165406/)
+[Structured Concurrency Documentation](https://docs.oracle.com/en/java/javase/21/core/structured-concurrency.html#GUID-CAC99F0A-8C9F-47D3-80BE-FFEBE7F2E300)
+[Structured Concurrency JEP](https://openjdk.org/jeps/453)
+
+
+[GitHub](https://github.com/Bhavesh-Suvalaka/jvm-concurrency-examples)
